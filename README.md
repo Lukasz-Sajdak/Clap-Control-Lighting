@@ -16,8 +16,8 @@ The envelope detector was simulated in LTSpice to verify its behavior before PCB
 
 # Features
 
--Envelope detector for clap sound detection
--LTSpice simulation of the envelope detector
--Microphone input for simple acoustic control
--Relay output to drive a light or other load
--Compact PCB ready for manufacturing
+- Envelope detector for clap sound detection
+- LTSpice simulation of the envelope detector
+- Microphone input for simple acoustic control
+- Relay output to drive a light or other load
+- Compact PCB ready for manufacturing
